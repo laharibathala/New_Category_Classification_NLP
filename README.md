@@ -100,14 +100,8 @@ B.Tech Graduate | Aspiring Data Scientist
 
 - Python | SQL | Machine Learning | NLP | Deep Learning | Data Analysis
 
+## 🚀 Live Demo
 
-### Step 3: Save it
+[Click here to try the News Category Classification App](https://newcategoryclassificationnlp-aeh4uku4exzgr3dfwq4uit.streamlit.app/)
+ 
 
-- After pasting:
-
-**Scroll down → Commit changes**
-
-- Commit message:
-
-```text
-Update project README
