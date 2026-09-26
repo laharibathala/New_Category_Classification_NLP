@@ -68,3 +68,46 @@ dependencies in sequential text data.
 
 ```bash
 git clone https://github.com/laharibathala/New_Category_Classification_NLP.git
+
+### 2. Install required libraries
+pip install pandas numpy scikit-learn tensorflow streamlit joblib
+### 3. Run the Streamlit application
+streamlit run app.py
+💻 Sample Prediction
+
+Example:
+- Input:
+A major sports event was held today...
+
+- Predicted Category:
+Sports
+
+- Confidence:
+98.18%
+📌 Applications
+- Automatic news classification
+- News recommendation systems
+- News portals
+- Content organization
+- Text classification systems
+👩‍💻 Author
+
+- Lahari Bathala
+
+B.Tech Graduate | Aspiring Data Scientist
+
+- Skills
+
+- Python | SQL | Machine Learning | NLP | Deep Learning | Data Analysis
+
+
+### Step 3: Save it
+
+- After pasting:
+
+**Scroll down → Commit changes**
+
+- Commit message:
+
+```text
+Update project README
